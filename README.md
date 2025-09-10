@@ -7,6 +7,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 - [Winners & Impressive Projects](#winners--impressive-projects)
   - [EF Hack](#ef-hack)
   - [AI Engine](#ai-engine)
+  - [Bolt x Elevenlabs](#bolt-x-elevenlabs)
   - [Stanford (TreeHacks)](#stanford-treehacks)
   - [Google](#google)
   - [Other](#other)
@@ -32,6 +33,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
   - [Langflow Hacking Agents](#langflow-hacking-agents)
   - [OpenAI Hackathon NYC](#openai-hackathon-nyc)
   - [Power of Europe Hackathon](#power-of-europe-hackathon)
+  - [Tech Europe](#tech-europe-hackathon)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -48,6 +50,11 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 - [mfinean/AIEngineHackathon](https://github.com/mfinean/AIEngineHackathon) — Mark Finean (Fshn)
 - [Loom demo](https://www.loom.com/share/77dde6c567b74eaa8a7746590ed15d98?sid=43b24c3b-a2f7-401a-8aa8-ae130d727e82)
 - [JohnRichardEnders/BS-Buster](https://github.com/JohnRichardEnders/BS-Buster) — BS-Buster
+- [Theocat321/electron-ai-engine-hack](https://github.com/Theocat321/electron-ai-engine-hack) Clueless (Agentic home screen support) - £32k in winnings
+
+### Bolt x Elevenlabs
+
+- [yappah.ai/yappah_fastapi](https://github.com/Yappah-ai/yappah_fastapi) Social behaviour analysis. Winner of Omi track 🥈
 
 ### Stanford (TreeHacks)
 
@@ -188,6 +195,10 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 ### Power of Europe Hackathon
 
 - [alexechoi/power-of-europe-hack](https://github.com/alexechoi/power-of-europe-hack)
+
+### Tech Europe Hackathon
+
+- [Theocat321/ai-tech-europe](https://github.com/Theocat321/ai-tech-europe-hack) Tiger MOM (Online meeting MOM test agent)  [loom](https://www.loom.com/share/6f5a3fcba6cc4bf7b7191f10d34c6292?sid=4bc80908-7dca-45cc-80c0-0181463eaa3b)
 
 ## Contributing
 

@@ -42,6 +42,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 ### EF Hack
 
 - [LukeTandjung/EF_Hackathon](https://github.com/LukeTandjung/EF_Hackathon) — Luke (Juries)
+- [MPS Enhancer](https://github.com/Shiv716/MPSEnhancer-SaturnxEF) - Leaderboard topper agentic judgement
 
 ### AI Engine
 
@@ -51,10 +52,13 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 - [Loom demo](https://www.loom.com/share/77dde6c567b74eaa8a7746590ed15d98?sid=43b24c3b-a2f7-401a-8aa8-ae130d727e82)
 - [JohnRichardEnders/BS-Buster](https://github.com/JohnRichardEnders/BS-Buster) — BS-Buster
 - [Theocat321/electron-ai-engine-hack](https://github.com/Theocat321/electron-ai-engine-hack) Clueless (Agentic home screen support) - £32k in winnings
+- [CareLink: Real-Time Intent Translation for Accessibility](https://github.com/Shiv716/CareLink-AI-Engine-Mini-Hackathon) CareLink
+- [Mosaic - AI Council infrastructure to eliminate bias and reject hallucinations](https://www.figma.com/slides/iV5b72cbBijYxLYR8l4MsR/Untitled?node-id=1-86) Mosaic - £10K in winnings
 
 ### Bolt x Elevenlabs
 
 - [yappah.ai/yappah_fastapi](https://github.com/Yappah-ai/yappah_fastapi) Social behaviour analysis. Winner of Omi track 🥈
+- [MuseAI](https://github.com/Shiv716/Hack_submission) Automated meme creation and timed deployment to maximize visibility. Top 11 finalists
 
 ### Stanford (TreeHacks)
 
@@ -69,6 +73,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 
 - [x.com thread](https://x.com/AlexReibman/status/1886240357295497297) — All
 - XXX (TBD)
+- [Kagami](https://github.com/avimallick/functiongemma-hackathon) - 2nd Runner up in London Venue while Top 2 in the world
 
 ### Other
 
@@ -84,6 +89,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) — Voice control laptop
 - [tomasmaillo/ichack24](https://github.com/tomasmaillo/ichack24) — IC Hack
 - [tomasmaillo/note-vec](https://github.com/tomasmaillo/note-vec) — Hack The Burgh
+- [ALLY-Assistive-Language-Life-support-for-You](https://github.com/Shiv716/A.L.L.Y-Assistive-Language-Life-support-for-You) - Antler Hackathon 2025
 
 ### People (many repos)
 
@@ -102,6 +108,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 
 - [Alezander9/WiiWork](https://github.com/Alezander9/WiiWork)
 - [Alezander9/llm-testbench](https://github.com/Alezander9/llm-testbench)
+- [Context Cache](https://github.com/Shiv716/Hack_SDLC) - Tessl HQ Hackathon 2025: Awarded for Best Product
 
 ### World's (UK's) Shortest Hackathon
 
@@ -199,6 +206,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 ### Tech Europe Hackathon
 
 - [Theocat321/ai-tech-europe](https://github.com/Theocat321/ai-tech-europe-hack) Tiger MOM (Online meeting MOM test agent)  [loom](https://www.loom.com/share/6f5a3fcba6cc4bf7b7191f10d34c6292?sid=4bc80908-7dca-45cc-80c0-0181463eaa3b)
+- [Longevity](https://github.com/Shiv716/Longevity_LondonAI_Hackathon) Longevity is a web-based proof-of-concept demonstrating AI-powered conversation analysis for lung cancer risk assessment.
 
 ## Contributing
 

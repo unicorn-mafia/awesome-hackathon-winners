@@ -73,7 +73,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 
 - [x.com thread](https://x.com/AlexReibman/status/1886240357295497297) — All
 - XXX (TBD)
-- [Kagami](https://github.com/avimallick/functiongemma-hackathon) - 2nd Runner up in London Venue while Top 2 in the world
+- [Kagami](https://github.com/avimallick/functiongemma-hackathon) - #2 in London Venue while Top 2 in the world
 
 ### Other
 

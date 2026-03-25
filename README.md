@@ -186,6 +186,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 ### Anthropic Hack
 
 - XXX (TBD)
+- [Bridge - AI Assistant Adviser](https://youtu.be/GI6jhys20t0) - Generates an FCA Consumer Duty suitability report
 
 ### Langflow Hacking Agents
 

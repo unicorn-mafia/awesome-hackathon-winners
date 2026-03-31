@@ -90,6 +90,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 - [tomasmaillo/ichack24](https://github.com/tomasmaillo/ichack24) — IC Hack
 - [tomasmaillo/note-vec](https://github.com/tomasmaillo/note-vec) — Hack The Burgh
 - [ALLY-Assistive-Language-Life-support-for-You](https://github.com/Shiv716/A.L.L.Y-Assistive-Language-Life-support-for-You) - Antler Hackathon 2025
+- [VC Scout Intelligence: Gauge potential of the portfolio companies](https://github.com/aryankaushikdev/CompetitiveVC) - TechBible x Unicorn Mafia
 
 ### People (many repos)
 

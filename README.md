@@ -179,6 +179,7 @@ A curated list of hackathon winners and standout projects. Discover inspiring bu
 ### Cursor Hack
 
 - Tai Chi Form Checker (TBD)
+- [Agent Transponder - Automated meeting-to-CRM pipeline with AI-powered follow-up notes](https://github.com/Shiv716/Agent-Transponder)
 
 ### Cloudflare Hack
 
